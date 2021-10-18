@@ -1,0 +1,89 @@
+
+fehmý uyar ders 111 de kaldýn devam edersýn
+
+js tekrarlamalarda kaldýn ders 64 bitti hýzlýca tekrar edersýn projene baþlarsýn
+
+*******************************************************************
+js get hour set vs ile ilgili video izle 
+
+ifler switchler  whýle for set týmeout setýnterval 
+
+random ýle ýlgýlý ornek yaptýn ama bakarsý gýne bý ara ornek yaptýkca gelýsýtýrsýn 
+************************************
+
+
+
+js parametre genel dersde  videolarý goreceksýn yada uygularken zaten farklý yapýlar gorursun olmadý youtbeden ýzlersýn******
+
+
+js queryseleector document BU TUR seylerý výdeo ýzledýn genel dersdede gorursun pekýsýr zaten bu tur seylerý
+uygulamanda yer ver
+
+ayrýca nesne[0].classsName deki classname yapýsýyla ýlgýlý queryselector event lýstýner gýbý yapýlarý genel calýstýn
+farklý farklý projelerde ýcýnde kullanýrsýn okey
+
+
+      
+
+js string number methods to strýng vs to datestring bunlar calýsa calsa anlýyorsun fakat boþ zamanda výdeosunu ýzle
+ayrýca for dongulerýnde lenght vs kullanýmlar var bunlarý ýsledýkce goruyorsun fakat výdeolarýnýda ýzle 
+
+ daha sonra
+break contýnue konusunda výdeolarýn ýcýnde calýsýtýgýn ve ornek yaptýgýn konular ýcersýnde anlayarak ogrendýn
+fakat javascript ýcýn konu calýsýrken bunada bak 
+
+
+
+
+returnnnnn calýþ whilede kullanmak ýcýn daha sonra genel olarakda bir ders seklýnde calýsýrsýn 
+
+
+
+const let gibi yapýlarý gormustun bi fikrin var ihtiyacýn oldukca kullanýyorsun ve bakýyorsun gine buraya yazýyorum yonerge
+olsun dýye ayrý býr zamanda genel ders olarak goreceksýn zaten ama sakýn ezberleme uygularken donup výdeo ýzlýyorsun 
+dahaa snra uyguluyorsun ya ozmanda anlamýs oldun gine ayný ssekýlde genel ders ýzlerken calýsýrsýn zate
+ve uygulama yaparken gine dönüp bakarsýn oyle oyle aklýna gýrer bu  
+
+
+
+        
+ 
+
+
+
+bir ara boþ zamanda this yapýsý var javascropte bak onunla ýlgýlý calýsmadýn kuuck ornek yapmadýn fehmý uyar kanalýndada var
+bakarsýn bý ara *****BUNU  GENEL DERS YAPARKEN VIDEOYA DENK GELDIGINDE IZLE VE OZMAN BASKA YERDENDE BAKARSIN
+GEREK KALIRSA 
+
+js olaylar var onlýck onmouse eventler yaný bunlarý kullandýkca hakým ol ama bý ara genel olarak calsýrýsýn 
+
+
+TO STRÝNG GÝBÝ ÇEÝRME ÞEYLERÝNEDE BAK
+
+
+
+*******JS DE OBJECTLERDE METHOTLAR VS GORDUN BUNUNLA ILGILI CESITLI YAPILARI YETERINCE GORUNCE GENEL BIR CALISMA ORNEGI
+YAP.
+
+****** duzenlý ýfaddelerý for dongusu gýbý dusun  1 kere ýzlemekle olmaz 1 kere ýzledýn projedende kullanýrsýn veya genel býr kucuk proje
+yaparsn oyle gelýstýrýsýn  ve bunu kullanýrken farklý výdeolardanda ýzlereyerrek  calsýmýs olursun
+
+
+****************sýmdý fehmý hocada constuructor yapýsýný gordun fakat býraz ýlerleýdkten sora nesne yapýlarýný gorunce 
+ve thýs yapýsýný zaten kullandýkca ve  hocanýn výdeosunda e ayrýyetten ozmanda thýs ýle ýlgýlý genel výdeoda ýzlýcen ondan sonra
+youtbede constructor yapýlarý ýle ýlgýlý guzel ders anlatýmý var ozman dýnle acele etme***********************
+
+
+
+
+
+
+REGULAR EXPRESSIONLA ILGILI bý kac ornek ustune proje yaptýn  býr kaldý for dongusuyle ýlgýlý býr proje belký ordada bunu projene eklersýn
+fakat regular expressýon cok genýs býr konu baþka baþka yerlerde kullandýkca  ýcýndeký o karakter yapýlarýný ogreneceksýn 
+o sekýlde notlar almaya devam et 
+ayrýca phpdede zaten bununla ýlgýlý uye.phpde ornek yapmýstýn fakat ordada iyice býrazcýk daha ornek yaparak gelýstýrmýs olacaksýn 
+farklý yerlerde  dolayýsýyla farklý programlama dýllerýndede ogrenmýs olucaksýn. degýsýk degýsýk orneklerle 
+
+
+
+

@@ -1,0 +1,54 @@
+https://www.youtube.com/watch?v=-dnwjSFFAaY&list=PLJ2DQ-l07F3jmA51W41yLofhxrp8vHE6g&index=61  buda býr proje olarak dusun.
+
+ 
+
+
+
+býrdaký ders sýfreyý vs yanlýs gýrýnce kullanýcý turu onu ayarlamaya calýs musterýlerede 3 hak vs uye kaydeet vs onlarý yap
+
+
+
+php ders 86 daký 12dkdakýný eklýyebýlrýsn php 89 da sondakýkadakýný de eklýyebýlrýsýn textarea yapýp kullanýcý ýslemler yapsýn
+orda kaydet dýyýnce dosya seklýnde calýsma dosyalarým klosorune eklesýn
+
+
+
+
+78.VIDEODAKI PHP 5.DAKIKADAKIINI NOTDEF.PHP YE YAZMANA GEREK YOK  KULLAN  PROJENDE FONKSIYON YAZMIS YONLENDIRMEYLE ILGILI KULLANDIGIN 
+SEYLER ZATEN
+
+
+bunlar býttýken sonra asagýdaký fýltrelemeyý yap
+***************
+3TMcmj@VeXC5.rn parolo
+
+not býrazcýk daha ýlerledýkten sonra belký bu konuda yený þeyler ogrenýrsýn fýkrýn gelýsýr
+ona göre  filtrelemeyle ýlgýlý þeyleri yaparsýn ozaman 07.06 tarýhýnde yaptýgýn projede ekleyemedýgýn ama tekrar ettýgýn recursve
+konusunu  daha sonra aþagýda recursive filtreleme konusunu goruceksýn bu notu okkuyunca
+dýcenký aa evet fýltrelemede boyle birþey vardý  hatta recursive konusunu ilerde tekrar edersýn etmezsen bile  donersýn yenýden calýsýrsýn
+belký ýlerdede yaparsýn recursiviyle ýlgýlý yaný sonuc olarak biraz bekle bir süre sonra filtrelemeyi yaparsýn.
+
+
+AÞAGIDAKI NOT :
+php de yený derse gecme projen býttý fýltreleme projesý yap sýmdý recursivve ile ilgili dersde mantýgýný anladýn fakat 
+býten projede maalesef yer almadý  netten baktýn kullaným yerýne vs býr projede gordun ona benzer filtrelemeyle ýlgýlý zaten
+uygulama yapacaktýn belký ýlerde gorursun recursiveyi karsýna cýkar  gecmýste aa gormustum dersýn ozzmanda kullanýrsýn
+fakat sogumadan býr projende kullanabýlýrýn ýste oda bu olabýlýr uygun zamanda yený derse gecmeden once basla projenes
+ 
+
+
+https://www.youtube.com/watch?v=UkvhvbwX9PA&list=PLY20HpFruiK2RxKOaKIirxjlYAA3dB6J6&index=53  fýltreleme ýslemlerý ýcýn yaparsýn suan 
+uygulama yaptýgýn dahýlýnde degýl bununla ýlgýlý konu ýsleyýnce en azýndan buna yakýn býr konu ýsleyýnce bakarsýn
+
+
+https://beltslib.net/yineleyen-recursive-fonksiyonlar.html fýltreleme ýslemlerýný buna gore uyarla tree wiew
+
+
+
+proje býr server alan adý aldýgýn zaman phpdeký yaptýgýn projený gýrýs yaparken ýp adresý al vs log.php de anlatýldý onlarý kontrol ettýr
+eger 2 kere farklý ýp adresnden gýrýyorsa engelle  ve engellenmýs adres vs bunu yap proje olarak ama býr sunucu alan adý aldýgýnda
+ozman anlarsýn cunku
+
+
+
+

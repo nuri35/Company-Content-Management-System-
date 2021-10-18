@@ -1,0 +1,90 @@
+php de calýsýrken sql dillerinide birlikte götür tabý ayrýyetten phpmyadmýndede genel ders yapabýlýrsýn sql ýle ama 
+genel olarak dýedýýgým gýbý yap 
+
+
+phpde hoca root þifreleme ile ilgili anlattýktan sonra hakým olduktan sonra genel olarak nettende calýs
+
+
+php ýcýnde farklý html kodlarýn ýcýne php kodu gomme bunlarý gelýstýr her zaman fýrsat buldukca ve sql sorgularýda
+eklemeyle ýlgýlý gelýstýr.
+
+genel derslerde gorebýlýrsýn ama sende bir bölummus gýbý þunu iþle: port sunucu root gibi vs þeyleri 
+
+
+
+******************** PROJELER  
+
+ 
+
+
+
+********************************************** 
+
+
+***************************************************************************************************
+
+php kendý projede ogrendýgým býlgýler ve orcun hocadan ogrendýklerýmýn baslýklarý burada yrrr alacaktýr
+
+mysql_connect ve mysqli_query 
+
+
+mysqli_fetch_assoc yapýsý 
+
+mysqli_error($baglanti)
+
+
+
+get post methodlarý 
+
+
+mysqli_real_escape_string yapýlarýna dair çalýþmalar 
+
+mysqli_query($baglanti, $sorgu))
+
+ mysqli_query($baglanti, SQL SORGUSU)
+
+ ve if else yapýlarý 
+
+echolar
+whýle
+
+
+form actýon ve  post get methotlarý 
+
+farklý dosya formatlarý yuklemen ýýcýn site : mime type 
+
+
+resým ekle duzenlede yený ogrendýgým kelýmeler resýmyuklendý.php ve delete.php ve duzenle.phpde yer almaktadýr. ayrýca kk.php de
+yený sey ogrendýn
+Aslýnda buraya hepsýný teker teker yazýcaktým ama ck karýsýr ve uzun surer dýye boyle tercýh edýldý. yaný brackets ýcýne yazmak
+daha mantýklý 
+*************************************************************************************************
+
+
+********************************************************YORUMLARIM**********************************
+hocanýn ýsledýklerýný hocada gordun ve gore gore ogrenýyorsun buraya baslýklarý not alýyorsun 
+artý projelerde ogrendýklerýnýde buraya yazýp ogrenýyorsun ve brackets kýsmýna ne oldugunu yazýyorsun zaten ayrýyetten
+genel ders ýslerkende goreceksýn  ondan dolayý genel výdeo ýzlemene gerek yok 
+fakat genel ders ýslerken orda farklý yený seyler ogrendýgýnde buraya not almana gerek yok o výdeolarý rehber olarak gör hatýrlaman
+ýcýn ha ama jsdeki gibi farklý yapýlarý yazýmlarý jsde oldugu gýbýý not alabýlýrsýn bracketsale 
+
+
+
+NOT: proje dahýlýndeký þeyler ve o projede birþeyler yazarken gereklý yeni farlý fonksýyonlar gorunce mysqli_affected_rows gibi þeyleri hoca 
+ornegýn soyluyor not alýyosun býrde ne ýse yaradýgýný býlmýyorsan výdeo ýzlýyorsun hakkýnda býlgý sahýbý oluyorsun 
+
+fakat  bir videoda farklý sekýlde verý tabanýna pdo seklýnde felan baglanmýs bunu ya verý tabanýna baglanýrken uygulamasýný yaparken
+farklýlýk olsun dýye ogrenýrsýn yada genel výdeo dersýnde ogrenýrsýn onun ýcýn boyle yap 
+ayrýyetten o výdeoda delete kýsmýnda pdo: fetch assoc felan bunlar o sekýlde býr uygulama yaparken ýzlersýn 
+yada genel výde dersýnde zaten hakým olacaksýn 
+
+
+
+
+ mysqli kullandýkca goruyrsun  ve kullandýkca ozellýklerýný ogrenýyorsun ve genel derslerdede karsýna cýkacaktýr 
+
+pdo da baþka bir projede kullanrak ogrenýrým yada genel dersde zaten goreceksýn ozman ýýce anlarsýn *******
+
+
+
+********************************************************YORUMLARIM**********************************

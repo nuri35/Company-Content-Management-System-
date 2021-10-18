@@ -1,0 +1,7 @@
+options -indexes
+
+ErrorDocument 403 http://localhost/s%C4%B1rket/denyacces.php
+
+
+
+

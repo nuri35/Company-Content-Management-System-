@@ -1,0 +1,52 @@
+    <div class="container-fluid">
+  <h1 class="text-center mb-3">Şirket çalışanları</h1>
+          
+  <div id='myCarousel' class='carousel slide' data-ride='carousel'>
+      
+    <div class='carousel-inner row w-100 mx-auto'>
+     
+     <div class='carousel-item col-md-4 active'>
+            <?php
+          while($satir = mysqli_fetch_assoc($sonuc)){ 
+        echo"<div class='card'>";
+           
+         
+         echo"<img class='card-img-top img-fluid' src='pp.jpg' alt='Card image cap'>";
+    
+          echo"<div class='card-body'>";
+        
+            
+              
+              echo"<p class='price'>";
+      printf ("Çalışan adı:". " "  .$satir["firstName"] );  
+        echo"</p>";
+                
+                 echo"<p class='price'>";
+      printf ("Çalışan şehir bilgisi:". " "  .$satir["city"] );  
+        echo"</p>";
+        
+              
+          echo"</div>";
+        echo"</div>"; 
+      echo"</div>";
+     
+
+   echo"</div>";
+                         } 
+
+   ?>   
+  
+    <a class='carousel-control-prev' href='#myCarousel' role='button' data-slide='prev'>
+     <span class='carousel-control-prev-icon' aria-hidden='true'></span>
+      <span class='sr-only'>Previous</span>
+    </a>
+<a class='carousel-control-next' href='#myCarousel' role='button' data-slide='next'>
+      <span class='carousel-control-next-icon' aria-hidden='true'></span>
+      <span class='sr-only'>Next</span>
+    </a>
+  </div>
+    
+       
+</div>
+  </div>
+   </div>
