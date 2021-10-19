@@ -20,7 +20,42 @@
 
  ![alt text](https://github.com/nuri35/Company-Content-Management-System-/blob/master/im/c.PNG)
 
+Uygulamada 3 rol bulunmaktadır. 
 
+Kullanıcıların login işlemlerinde giriş algoritması şu şekildedir; Eğer giriş yapan kişiler 10 tane kere yanlış girdiklerinde kayıt logları tutulup 1 saat hesapları kitlenmektedir.1 saat sonra hesaplarına giriş yapabilirler.Bu bilgiler veri tabanında tutulmaktadır
+
+Uygulamayı kurduktan sonra örnek olması adına yönetici şifresi ve ismi bulunmaktadır.Giriş yapabilirsiniz.Sistemin yönetici veya çalışan olduğunu 1 ve 3 numaralarından anlamaktadır. 1 = yönetici, 3 = çalışan anlamına gelır.
+
+ ![alt text](https://github.com/nuri35/Company-Content-Management-System-/blob/master/im/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
+  ## 📑: Ürünlerin kategorilenme yapısı
+
+ ![alt text](https://github.com/nuri35/Company-Content-Management-System-/blob/master/im/sd.PNG)
+
+
+ 
+### 1-Yönetici Rolü 
+
+* 💸:: **Ürün ekleme işlemleri :** Yönetici **Uygulama** aracılığı ile şirketteki ürünleri görebilir, ve şirket adına ürün ekleyebilir, silebilir.
+
+ 🗃️:**Profil işlemleri :** Yönetici **Uygulama** aracılığı ile  profillerinde istediği dosyaları ekleyebilir.Profilini güncelliyebilir.
+
+
+### 2-Şirket çalışan Rolü 
+
+
+ 🗃️:**Profil işlemleri :** Kullanıcı **Uygulama** aracılığı ile  profillerinde istediği dosyaları ekleyebilir.Profilini güncelliyebilir.
+
+
+### 3-Müşteri Rolü
+
+* 💸:: **Alışveriş ilemleri :** Müşteriler **Uygulama** aracılığı ile şirketteki ürünleri görebilir, sepetine ekleyip ürün siparişi verebilir
+
+* 🤢: **arama İşlemler :** Müşteriler **Uygulama** aracılığı ile istediği ürünü arayabilir.
+
+* 🗃️:**Filtreleme İşlemleri :** Kullanıcı **Uygulama** aracılığı ile  recursive fonksiyonları sayesinde kategorileşmiş ürünleri filtreleyebilir.
+
+ 🗃️:**Profil işlemleri :** Kullanıcı **Uygulama** aracılığı ile  profillerinde istediği dosyaları ekleyebilir.Profilini güncelliyebilir.
 
 <h2> 🛠 &nbsp;Kullanılan Teknolojiler</h2>
 
