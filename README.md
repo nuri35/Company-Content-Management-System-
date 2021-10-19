@@ -7,21 +7,20 @@
 
 
  ## :computer: Projenin Kurulumu
- Projemizi php dile ile oluşturulmuş bulunmakta.Projemizde ki dosyaların çalışabilmesi için apache kurulması gerekecektir.Ayrıca Mysql veritabanı ile oluşturulduğu için bu uygulamada ki örnek olarak yapmış olduğum classicmodels.sql veritabanını kullanabilirsiniz.
+ Projemizi php  ile oluşturulmuş bulunmakta.Projemizde ki dosyaların çalışabilmesi için apache kurulması gerekecektir.Ayrıca Mysql veritabanı ile oluşturulduğu için bu uygulamada ki örnek olarak yapmış olduğum classicmodels.sql veritabanını kullanabilirsiniz.
  
- Daha ayrıntılı kurulum için bu adres size rehber olabilir. https://sanal.mobi/tr/Blog/141-windows-icin-apache-web-sunucusu-ve-php-kurulumu
+ İlk önce Xampp uygulamasını kuralım.Bunun sayesinde 3000 portundan server olarak uygulamamıza bağlanıp veri tabanıyla iletişim halinde olacak.Özellikle uygulamamızı oluşturduğumuz bütün dosyalar xampp uygulamasının kurulu oldugu htdocs dosyanın içinde olmalıdır.
  
+![alt text]( https://github.com/nuri35/Company-Content-Management-System-/blob/master/im/a.PNG)
+
+
   ## 📑: Veri tabanı görünümü
  
- ![alt text](https://quasa.io/storage/images/news/Rw8fpNmIAJGf8m03cEZRSde2a6r7UdFQ7RcO1J53.png)
+ ![alt text](https://github.com/nuri35/Company-Content-Management-System-/blob/master/im/b.PNG)
+
+ ![alt text](https://github.com/nuri35/Company-Content-Management-System-/blob/master/im/c.PNG)
 
 
-
- ## 🙈: Proje içinden görüntüler
- 
- ![alt text](https://github.com/nuri35/The-guide-robot-that-prepares-the-fitness-training-program/blob/master/images/a.PNG)
- ![alt text](https://github.com/nuri35/The-guide-robot-that-prepares-the-fitness-training-program/blob/master/images/b.PNG)
- ![alt text](https://github.com/nuri35/The-guide-robot-that-prepares-the-fitness-training-program/blob/master/images/c.PNG)
 
 <h2> 🛠 &nbsp;Kullanılan Teknolojiler</h2>
 
