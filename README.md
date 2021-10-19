@@ -43,8 +43,9 @@ Uygulamayı kurduktan sonra örnek olması adına yönetici şifresi ve ismi bul
 
 ### 2-Şirket çalışan Rolü 
 
+* 💸:: **Ürün ekleme işlemleri :** Çalışan **Uygulama** aracılığı ile şirketteki ürünleri görebilir, ve şirket adına ürün ekleyebilir, silebilir.
 
- 🗃️:**Profil işlemleri :** Kullanıcı **Uygulama** aracılığı ile  profillerinde istediği dosyaları ekleyebilir.Profilini güncelliyebilir.
+ 🗃️:**Profil işlemleri :** Çalışan **Uygulama** aracılığı ile  profillerinde istediği dosyaları ekleyebilir.Profilini güncelliyebilir.
 
 
 ### 3-Müşteri Rolü
